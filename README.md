@@ -1,7 +1,6 @@
 
 **Heroes of Pymoli - Takeaway Analysis**
 
-Heroes of Pymoli - Takeaway Analysis
 
 1) Not surprisingly given the industry, the majority of players making in-game purchases are male (84.03%) and ages 20-24 and 15-19, with  63.37% of purchases made by these ages total. 
 
