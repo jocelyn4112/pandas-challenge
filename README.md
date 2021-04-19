@@ -1,6 +1,5 @@
-pandas-challenge
-Pandas Homework
-Heroes of Pymoli - Takeaway Analysis
+
+**Heroes of Pymoli - Takeaway Analysis**
 
 Heroes of Pymoli - Takeaway Analysis
 
